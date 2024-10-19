@@ -4,4 +4,4 @@
 # Yenifer Hernandez Martinez
 # Cuatrimestre: 4to
 # Grupo: TDSM-G1
-# Ejercicio: 003- Ejercicios String methods y Arrow functions
+# Actividad: 003- Ejercicios String methods y Arrow functions
